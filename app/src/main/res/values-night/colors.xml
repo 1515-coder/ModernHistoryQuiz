@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_primary">#FFB4A8</color>
+    <color name="brand_primary_dark">#FF897A</color>
+    <color name="page_background">#181311</color>
+    <color name="surface">#221B18</color>
+    <color name="surface_variant">#302724</color>
+    <color name="outline">#514440</color>
+    <color name="text_primary">#F5EDE9</color>
+    <color name="text_secondary">#CBBDB6</color>
+    <color name="success">#72D69D</color>
+    <color name="success_soft">#173D29</color>
+    <color name="danger">#FFB4AB</color>
+    <color name="danger_soft">#531E1E</color>
+    <color name="badge_background">#4F211C</color>
+    <color name="option_checked">#FFB4A8</color>
+    <color name="option_unchecked">#C0B1AA</color>
+</resources>
