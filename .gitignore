@@ -1,31 +1,31 @@
 # Gradle
-
 .gradle/
 **/build/
 
 # Android Studio
-
 .idea/
 *.iml
 local.properties
 captures/
 
-# Native build cache
-
+# Native build cache (kept for compatibility with old clones)
 .cxx/
 .externalNativeBuild/
 
 # Signing files - never upload
-
 *.jks
 *.keystore
 
 # Operating system
-
 .DS_Store
 Thumbs.db
 
 # Temporary files
-
 *.tmp
 *.log
+
+# Release build outputs
+app/release/
+*.apk
+*.aab
+*.dm
